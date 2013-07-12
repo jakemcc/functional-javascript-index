@@ -10,4 +10,4 @@ book. More about the dictionary [here](http://jakemccrary.com/blog/2013/07/09/re
 
 ## License
 
-Code in index is licensed under the [MIT license](https://github.com/funjs/book-source/blob/master/LICENSE.txt) of original project. Copy of license at the time of creating this repo can be found under functional-javascript-license.txt.
+Code in index is licensed under the [MIT license](https://github.com/funjs/book-source/blob/master/LICENSE.txt) of original project. Copy of license at the time of creating this repo can be found under [functional-javascript-license.txt](functional-javascript-license.txt).
